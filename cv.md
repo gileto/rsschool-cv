@@ -2,19 +2,17 @@
 # Maria Gileto
 
 ## Contacts
-tel: +995511112098
-Telegram: @gileto
-e-mail: mgileto@proton.me
-Site: [https://giletomaria.surge.sh/](giletomaria.surge.sh)
-Github: https://github.com/gileto
-English: B2. I live as a foreigner in Georgia so I use English every day.
+- tel: +995511112098
+- Telegram: @gileto
+- e-mail: mgileto@proton.me
+- Site: https://giletomaria.surge.sh/
+- Github: https://github.com/gileto
+- English: B2. I live as a foreigner in Georgia so I use English every day.
 
 ## About me
 Hello! I am front-end developer. I have been working for a year as a developer and I liked it a lot! 
 My aim is to get a job. I know html, css, js and frameworks well. I am enthusiastic, open-minded and a bit perfectionist.
 I am responsible and get task done. Have good communication skills and use them effectively.
-
-===
 
 ## My technical stack: 
 HTML, CSS, JS, TS, VUE, Buefy, Tailwind, SCSS, Bulma, Figma, vite, npm, yarn, git, vscode, Pug, Jira
